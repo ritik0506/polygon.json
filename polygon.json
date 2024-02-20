@@ -1,0 +1,115 @@
+id	ethereum
+description	Ethereum is a decentralized, open-source blockchain with smart contract functionality. Ether is the native cryptocurrency of the platform. It is the second-largest cryptocurrency by market capitalization, after Bitcoin. Ethereum is the most actively used blockchain.
+tags
+pos
+smart contracts
+ethereum ecosystem
+layer 1
+evm
+
+coin_details
+name	Ethereum
+symbol	ETH
+logo	logo/ethereum.png
+max_supply	∞
+
+chain_details
+name	type
+Language	Solidity
+Consensus	Proof of stake
+Chain Layer	L1
+Chain Type	EVM
+
+official_links
+website	https://ethereum.org/en/
+whitepaper	https://ethereum.org/en/whitepaper/
+documentation	https://ethereum.org/en/developers/docs/
+forum	https://ethereum-magicians.org/
+github	https://github.com/ethereum/go-ethereum
+
+social_platforms
+discord	https://discord.com/invite/ethereum-org
+twitter	https://twitter.com/ethereum
+reddit	https://reddit.com/r/ethereum
+community	https://ethereum.org/community/online
+coinmarketcap_community	https://coinmarketcap.com/community/profile/Ethereum/
+twitter_hashtag	https://twitter.com/hashtag/Ethereum
+
+data_aggregator
+name	url
+CoinMarketCap	https://coinmarketcap.com/currencies/ethereum/
+CoinGecko	https://www.coingecko.com/en/coins/ethereum
+DefiLlama	https://defillama.com/chain/Ethereum
+DappRadar	https://dappradar.com/chain/ethereum
+CryptoCompare	https://www.cryptocompare.com/coins/eth/overview
+TradingView	https://www.tradingview.com/symbols/ETHUSD/
+CoinDesk	https://www.coindesk.com/price/ethereum/
+Investing	https://www.investing.com/crypto/ethereum/eth-usd
+MarketWatch	https://www.marketwatch.com/investing/cryptocurrency/ethusd
+Yahoo Finance	https://finance.yahoo.com/quote/ETH-USD
+
+explorers
+name	url
+Etherscan	https://etherscan.io/
+Blockchair	https://blockchair.com/ethereum
+Parsec	https://parsec.fi/
+OKLink	https://www.oklink.com/eth
+Ethplorer	https://ethplorer.io/
+TokenView	https://eth.tokenview.io/
+3xpl	https://3xpl.com/ethereum
+BlockSec	https://phalcon.blocksec.com/explorer
+OpenChain	https://openchain.xyz/trace
+Tenderly	https://dashboard.tenderly.co/explorer
+Dedaub	https://app.dedaub.com/?network=ethereum
+
+bridges
+name	url
+Layer Zero	https://layerzero.network/
+Axelar	https://axelar.network/
+Hop Protocol	https://hop.exchange/
+Connext	https://connext.network/
+Wormhole	https://wormhole.com/
+Stargate	https://stargate.finance/
+
+bounty
+name	url
+Bug Bounty Program	https://ethereum.org/en/bug-bounty/
+
+grants
+name	url
+Ethereum Foundation	https://ethereum.org/en/community/grants/
+
+faucets
+name	url
+Alchemy	https://goerlifaucet.com
+QuickNode	https://faucet.quicknode.com/ethereum
+All That Node	https://www.allthatnode.com/faucet/ethereum.dsrv
+Holesky PoW Faucet	https://holesky-faucet.pk910.de/
+
+rpcs
+name	url
+Chainlist	https://chainlist.org/chain/1
+
+wallets
+name	url
+Wallet Finder	https://ethereum.org/wallets/find-wallet
+Metamask	https://metamask.io/
+Safe	https://safe.global/
+Rainbow	https://rainbow.me/
+Coinbase Wallet	https://www.coinbase.com/wallet
+OKX	https://www.okx.com/web3
+Trezor	https://trezor.io/
+Ledger	https://www.ledger.com/
+
+oracles
+name	url
+Chainlink	https://chain.link/
+Band Protocol	https://bandprotocol.com/
+Tellor	https://tellor.io/
+API3	https://api3.org/
+Razor Network	https://razor.network/
+DIA	https://diadata.org/
+Provable	https://provable.xyz/
+Chronicle	https://chroniclelabs.org/
+
+
